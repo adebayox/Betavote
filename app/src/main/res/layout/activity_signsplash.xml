@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".signsplash"
+    android:background="@drawable/signsplash">
+
+    <Button
+        android:id="@+id/Btnvoter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="494dp"
+        android:layout_marginBottom="189dp"
+        android:background="@drawable/button_bg"
+        android:text="Voter"
+        android:textColor="#fafafa" />
+
+    <Button
+        android:id="@+id/Btnghost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="554dp"
+        android:layout_marginBottom="130dp"
+        android:background="@drawable/button_bg"
+
+        android:text="Ghost mode"
+        android:textColor="#fafafa"
+        app:layout_constraintVertical_bias="0.735" />
+
+</RelativeLayout>
