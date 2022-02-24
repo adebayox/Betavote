@@ -8,9 +8,9 @@
         <entry key="app/src/main/res/layout/activity_onboard1.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_onboard2.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_onboard3.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_signsplash.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_signsplash.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_votersid.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_votersid.xml" value="0.1" />
       </map>
     </option>
   </component>
