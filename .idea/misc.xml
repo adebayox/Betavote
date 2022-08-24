@@ -3,14 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/item_selector.xml" value="0.24375" />
+        <entry key="app/src/main/res/drawable-v24/rounded_corner.xml" value="0.24375" />
+        <entry key="app/src/main/res/drawable/bookmark.xml" value="0.16944444444444445" />
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.13072916666666667" />
+        <entry key="app/src/main/res/drawable/home.xml" value="0.16574074074074074" />
+        <entry key="app/src/main/res/layout/activity_bottom_nav.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_fingerprint.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_onboard1.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_onboard2.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_onboard3.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_signsplash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signsplash.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_votersid.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_success.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/activity_verify.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_verifyscreen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_votersid.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_bookmark.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_history.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.165" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.21354166666666666" />
       </map>
     </option>
   </component>

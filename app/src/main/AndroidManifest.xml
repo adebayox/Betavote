@@ -10,13 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BetaVote">
         <activity
+            android:name=".bottom_nav"
+            android:exported="false" />
+        <activity
+            android:name=".success"
+            android:exported="false" />
+        <activity
+            android:name=".fingerprint"
+            android:exported="false" />
+        <activity
+            android:name=".verifyscreen"
+            android:exported="false" />
+        <activity
             android:name=".votersid"
             android:exported="false" />
         <activity
             android:name=".signsplash"
-            android:exported="false" />
-        <activity
-            android:name=".signup"
             android:exported="false" />
         <activity
             android:name=".onboard3"

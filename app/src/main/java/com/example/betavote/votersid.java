@@ -13,11 +13,11 @@ public class votersid extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_votersid);
-        Button mButton = (Button) findViewById(R.id.Btnswitch);
+        Button mButton = (Button) findViewById(R.id.Btnext);
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(votersid.this, signsplash.class));
+                startActivity(new Intent(votersid.this, verifyscreen.class));
 
             }
         });
